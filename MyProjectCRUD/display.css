@@ -1,0 +1,22 @@
+table{
+    margin:100px auto;
+    box-shadow: 10px 10px 8px 10px #a7a5a5;
+    border:2px solid black;
+    
+}
+th,td,tr{
+    border-bottom:1px solid black;
+    border-right:1px solid black;
+    padding:10px 20px;
+}
+.access{
+    color:#2b6777;
+    text-decoration:none;
+    
+
+}
+button{
+    padding:8px;
+    border:1px solid black;
+    border-radius:5px;
+}
